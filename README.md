@@ -1,3 +1,7 @@
+This is a fork of xiaocong's uiautomator-
+There's no activity on the original repo - so, I'm making the write commits on my fork.
+
+
 uiautomator
 ===========
 
